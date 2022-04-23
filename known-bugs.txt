@@ -1,0 +1,6 @@
+1) infinite symbol is shown if a number is divided by 0
+
+2) cannot start with "."
+
+3) only one zero allowed to start?
+
